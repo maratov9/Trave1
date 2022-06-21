@@ -1,0 +1,19 @@
+.travel__select {
+	display: block;
+	border: 0.8px solid #afb0b9;
+	border-radius: 6px;
+	min-width: 220px;
+	padding: 12px 70px 12px 30px;
+	color: #4a4c53;
+	font-size: 16px;
+	appearance: none;
+	background-image: url("../img/logo/Vector.svg");
+	background-repeat: no-repeat;
+	background-position: 87%;
+	background-size: 4.5%;
+	cursor: pointer;
+}
+.travel__select:focus {
+	outline: none;
+	box-shadow: 0px 0px 10px 2px #ffaf59;
+}
